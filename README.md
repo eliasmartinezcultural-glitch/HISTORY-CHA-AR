@@ -1,7 +1,9 @@
-# CHAÑAR · UNA HISTORIA PARA DESCUBRIR
+# HISTORY-CHA-AR
 
-Experiencia educativa digital sobre la historia de San Patricio del Chañar, diseñada para nivel primario.
+## Nuevo comienzo · V0.1
 
-**Principio:** mucha profundidad histórica detrás, máxima sencillez para el niño.
+Experiencia educativa para descubrir la historia de San Patricio del Chañar.
 
-Estado: V0.1 · Fundación
+Principio: **mucha profundidad detrás, máxima sencillez delante.**
+
+Esta versión reinicia el producto desde una base limpia. No conserva la estructura de las versiones anteriores como dependencia de funcionamiento.
