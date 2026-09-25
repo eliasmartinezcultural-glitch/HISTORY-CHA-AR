@@ -1,0 +1,7 @@
+{
+  "version":"0.3.0",
+  "items":[
+    {"id":"irrigation","name":"El riego","kind":"sistema","question":"¿Cómo llega el agua hasta la tierra?","description":"En esta experiencia, el riego se presenta como una pista para comprender la transformación del territorio.","status":"documentado","sourceIds":["cfi-chanar"]},
+    {"id":"chacra","name":"La chacra","kind":"territorio","question":"¿Qué cambia cuando una tierra empieza a producir?","description":"Las chacras permiten observar la relación entre agua, tierra, trabajo y producción.","status":"documentado","sourceIds":["cfi-chanar"]}
+  ]
+}

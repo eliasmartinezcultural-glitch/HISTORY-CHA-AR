@@ -1,0 +1,12 @@
+{
+  "version":"0.3.0",
+  "relations":[
+    {"from":"el-chanar-1966","to":"riego-1968","label":"abre un proceso"},
+    {"from":"riego-1968","to":"primeras-chacras-1971","label":"hace posible"},
+    {"from":"primeras-chacras-1971","to":"fundacion-1973","label":"acompaña"},
+    {"from":"riego-1973","to":"el-chanar-1979","label":"conecta con"},
+    {"from":"riego-1968","to":"irrigated-chacras","label":"transforma"},
+    {"from":"riego-1968","to":"irrigation","label":"se explica mediante"},
+    {"from":"primeras-chacras-1971","to":"fruit-growers","label":"involucra"}
+  ]
+}
