@@ -1,8 +1,0 @@
-{
-  "version":"0.2.0",
-  "sources":[
-    {"id":"carta-organica","name":"Carta Orgánica Municipal de San Patricio del Chañar","institution":"Municipalidad / Provincia del Neuquén","url":"https://infoleg.neuquen.gov.ar/Boletines/bo06092903001a.pdf","kind":"documento oficial"},
-    {"id":"cfi-chanar","name":"Plan de Ordenamiento Territorial y Ambiental para Añelo, San Patricio del Chañar y Sauzal Bonito","institution":"Consejo Federal de Inversiones","url":"https://www.argentina.gob.ar/sites/default/files/plan_de_ordenamiento_territorial_y_ambiental_para_las_localidades_des_anelo_san_patricio_del_chanar_y_sauzal_bonito_0.pdf","kind":"estudio territorial"},
-    {"id":"el-chanar-dam","name":"El Chañar · Complejo Cerros Colorados","institution":"Argentina.gob.ar","url":"https://www.argentina.gob.ar/energia/energia-electrica/energia-hidroelectrica/represas/el-chanar","kind":"fuente institucional"}
-  ]
-}
