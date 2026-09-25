@@ -1,1 +1,78 @@
-{"project":"HISTORY-CHA-AR","version":"0.1.0","audience":"nivel-primario","editorial_rule":"fuente -> investigación -> verificación -> adaptación -> publicación","items":[{"id":"fundacion-1973","type":"evento","title":"Fundación reconocida: 21 de mayo de 1973","period":"1973","status":"documentado","adaptation":"La Carta Orgánica Municipal reconoce el 21 de mayo de 1973 como fecha de fundación de la ciudad.","sources":[{"name":"Carta Orgánica Municipal de San Patricio del Chañar","url":"https://infoleg.neuquen.gov.ar/Boletines/bo06092903001a.pdf"}]},{"id":"riego-fruticultura-1968","type":"proceso","title":"Riego y desarrollo frutícola","period":"1968-1973","status":"documentado","adaptation":"Documentos territoriales describen obras de sistematización de riego, plantación de frutales y formación de chacras durante este período.","sources":[{"name":"Consejo Federal de Inversiones · Plan de Ordenamiento Territorial","url":"https://www.argentina.gob.ar/sites/default/files/plan_de_ordenamiento_territorial_y_ambiental_para_las_localidades_des_anelo_san_patricio_del_chanar_y_sauzal_bonito_0.pdf"}]}]}
+{
+  "project": "HISTORY-CHA-AR",
+  "version": "0.2.0",
+  "audience": "nivel-primario",
+  "editorial_rule": "fuente -> investigación -> verificación -> adaptación -> publicación",
+  "items": [
+    {
+      "id": "fundacion-1973",
+      "type": "evento",
+      "title": "Fundación reconocida: 21 de mayo de 1973",
+      "period": "1973",
+      "status": "documentado",
+      "adaptation": "La Carta Orgánica Municipal reconoce el 21 de mayo de 1973 como fecha de fundación de la ciudad.",
+      "sources": [
+        {
+          "name": "Carta Orgánica Municipal de San Patricio del Chañar",
+          "url": "https://infoleg.neuquen.gov.ar/Boletines/bo06092903001a.pdf"
+        }
+      ]
+    },
+    {
+      "id": "riego-fruticultura-1968",
+      "type": "proceso",
+      "title": "Riego y desarrollo frutícola",
+      "period": "1968-1973",
+      "status": "documentado",
+      "adaptation": "Documentos territoriales describen obras de sistematización de riego, plantación de frutales y formación de chacras durante este período.",
+      "sources": [
+        {
+          "name": "Consejo Federal de Inversiones · Plan de Ordenamiento Territorial",
+          "url": "https://www.argentina.gob.ar/sites/default/files/plan_de_ordenamiento_territorial_y_ambiental_para_las_localidades_des_anelo_san_patricio_del_chanar_y_sauzal_bonito_0.pdf"
+        }
+      ]
+    },
+    {
+      "id": "el-chanar-1966",
+      "type": "contexto",
+      "title": "El Chañar en 1966",
+      "period": "1966",
+      "status": "documentado",
+      "adaptation": "Un documento territorial registra la adquisición de “El Chañar” por un grupo de vecinos de Cinco Saltos.",
+      "sources": [
+        {
+          "name": "CFI · Plan de Ordenamiento Territorial",
+          "url": "https://www.argentina.gob.ar/sites/default/files/plan_de_ordenamiento_territorial_y_ambiental_para_las_localidades_des_anelo_san_patricio_del_chanar_y_sauzal_bonito_0.pdf"
+        }
+      ]
+    },
+    {
+      "id": "plantaciones-1971",
+      "type": "produccion",
+      "title": "Plantaciones hacia 1971",
+      "period": "1971",
+      "status": "documentado",
+      "adaptation": "El mismo documento registra 500 hectáreas plantadas para ese período.",
+      "sources": [
+        {
+          "name": "CFI · Plan de Ordenamiento Territorial",
+          "url": "https://www.argentina.gob.ar/sites/default/files/plan_de_ordenamiento_territorial_y_ambiental_para_las_localidades_des_anelo_san_patricio_del_chanar_y_sauzal_bonito_0.pdf"
+        }
+      ]
+    },
+    {
+      "id": "el-chanar-1979",
+      "type": "infraestructura",
+      "title": "El Chañar entra en operación",
+      "period": "1979",
+      "status": "documentado",
+      "adaptation": "La fuente institucional describe la puesta en operación de El Chañar dentro del complejo Cerros Colorados, con funciones relacionadas con el agua y el riego.",
+      "sources": [
+        {
+          "name": "Argentina.gob.ar · El Chañar",
+          "url": "https://www.argentina.gob.ar/energia/energia-electrica/energia-hidroelectrica/represas/el-chanar"
+        }
+      ]
+    }
+  ]
+}
