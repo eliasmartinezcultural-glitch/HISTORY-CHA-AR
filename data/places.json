@@ -1,0 +1,8 @@
+{
+  "version":"0.3.0",
+  "items":[
+    {"id":"neuquen-river","name":"Río Neuquén","kind":"agua","description":"El río forma parte del territorio que acompaña la historia local y del sistema hídrico que hizo posible transformar tierras mediante riego.","status":"documentado","sourceIds":["carta-organica","cfi-chanar"]},
+    {"id":"irrigated-chacras","name":"Chacras irrigadas","kind":"territorio","description":"El proceso de sistematización del riego permitió organizar tierras en chacras y desarrollar plantaciones.","status":"documentado","sourceIds":["cfi-chanar"]},
+    {"id":"el-chanar-infrastructure","name":"El Chañar · Cerros Colorados","kind":"infraestructura","description":"Infraestructura vinculada al agua y al riego dentro del complejo Cerros Colorados.","status":"documentado","sourceIds":["el-chanar-dam"]}
+  ]
+}
