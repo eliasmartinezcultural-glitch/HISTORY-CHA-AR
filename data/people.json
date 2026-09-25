@@ -1,7 +1,0 @@
-{
-  "version":"0.3.0",
-  "items":[
-    {"id":"community","name":"Las personas del Chañar","kind":"comunidad","description":"La historia local se construye con personas, familias, trabajadores, productores, instituciones y comunidades.","status":"marco editorial","sourceIds":["cfi-chanar"]},
-    {"id":"fruit-growers","name":"Productores frutícolas","kind":"trabajo","description":"Los documentos territoriales describen la llegada y organización de productores alrededor de las nuevas chacras y del riego.","status":"documentado","sourceIds":["cfi-chanar"]}
-  ]
-}
